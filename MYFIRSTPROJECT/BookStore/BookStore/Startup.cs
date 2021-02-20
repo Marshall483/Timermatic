@@ -24,20 +24,7 @@ namespace BookStore
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
-            }
-
-            app.Use(async (context, next) => {
-                await context.Response.WriteAsync("Hello Timerchan\n");
-                next();
-                await context.Response.WriteAsync("Hello thrid message\n");
-            });
-
-            app.Use(async (context, next) => {
-                await context.Response.WriteAsync("Hello second message\n");
-                next();
-                await context.Response.WriteAsync("Hello finaly message\n");
-                next();
-            });
+            } 
 
             app.UseRouting();
 
@@ -45,17 +32,18 @@ namespace BookStore
             {
                 endpoints.MapGet("/", async context =>
                 {
-                    await context.Response.WriteAsync("Hello World!");
+                    if (env.IsEnvironment("MyEnv"))
+                    {
+                        await context.Response.WriteAsync("somethig new");
+                    }
+                    else
+                    {
+                        await context.Response.WriteAsync(env.EnvironmentName);
+                    }
                 });
             });
 
-            app.UseEndpoints(endpoints =>
-            {
-                endpoints.MapGet("/admin", async context =>
-                {
-                    await context.Response.WriteAsync("Admin panel logic here");
-                });
-            });
+           
         }
     }
 }
