@@ -1,0 +1,13 @@
+C:\Users\Alexander Putilin\source\repos\MazeBulider\MazeBulider\bin\Debug\netcoreapp3.1\MazeBulider.exe
+C:\Users\Alexander Putilin\source\repos\MazeBulider\MazeBulider\bin\Debug\netcoreapp3.1\MazeBulider.deps.json
+C:\Users\Alexander Putilin\source\repos\MazeBulider\MazeBulider\bin\Debug\netcoreapp3.1\MazeBulider.runtimeconfig.json
+C:\Users\Alexander Putilin\source\repos\MazeBulider\MazeBulider\bin\Debug\netcoreapp3.1\MazeBulider.runtimeconfig.dev.json
+C:\Users\Alexander Putilin\source\repos\MazeBulider\MazeBulider\bin\Debug\netcoreapp3.1\MazeBulider.dll
+C:\Users\Alexander Putilin\source\repos\MazeBulider\MazeBulider\bin\Debug\netcoreapp3.1\MazeBulider.pdb
+C:\Users\Alexander Putilin\source\repos\MazeBulider\MazeBulider\obj\Debug\netcoreapp3.1\MazeBulider.csprojAssemblyReference.cache
+C:\Users\Alexander Putilin\source\repos\MazeBulider\MazeBulider\obj\Debug\netcoreapp3.1\MazeBulider.AssemblyInfoInputs.cache
+C:\Users\Alexander Putilin\source\repos\MazeBulider\MazeBulider\obj\Debug\netcoreapp3.1\MazeBulider.AssemblyInfo.cs
+C:\Users\Alexander Putilin\source\repos\MazeBulider\MazeBulider\obj\Debug\netcoreapp3.1\MazeBulider.csproj.CoreCompileInputs.cache
+C:\Users\Alexander Putilin\source\repos\MazeBulider\MazeBulider\obj\Debug\netcoreapp3.1\MazeBulider.dll
+C:\Users\Alexander Putilin\source\repos\MazeBulider\MazeBulider\obj\Debug\netcoreapp3.1\MazeBulider.pdb
+C:\Users\Alexander Putilin\source\repos\MazeBulider\MazeBulider\obj\Debug\netcoreapp3.1\MazeBulider.genruntimeconfig.cache
