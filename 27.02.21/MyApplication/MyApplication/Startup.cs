@@ -9,6 +9,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using MyApplication.Extentions;
+using MyApplication.Interfaces;
+using MyApplication.Services;
 
 namespace MyApplication
 {
@@ -24,6 +26,12 @@ namespace MyApplication
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+
+            /* Lifetime */
+            services.AddSingleton<IEmailSender, EmailSenderService>();
+            services.AddTransient<IPrinter, ConsolePrinter>();
+
+
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)

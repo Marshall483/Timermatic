@@ -25,8 +25,6 @@ namespace MyApplication.Middleware
             _logger.Log(LogLevel.Information, $"Processing request {patch}");
 
             await _next.Invoke(context);
-
-
         }
     }
 }

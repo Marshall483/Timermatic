@@ -26,7 +26,6 @@ namespace MyApplication
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
                     webBuilder.UseStartup<Startup>();
-                    webBuilder.UseWebRoot("siteRoot");
                 });
     }
 }
