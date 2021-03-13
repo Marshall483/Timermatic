@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KTTXJpt1GF1NNcmv7fTo0GmWlP2IzYpSC4GAH8tT7cn/JaeKlXL1woZXbm+ANrB//4pPw48dIkzXf77rZbD+sA==",
+  "dgSpecHash": "JClc7SYS/ngO3JlDH7RrX3P3cW2Y7ReSeXdQ1bwwFcEiy80Op/Qo39OxbpIr3QgqiDEH31fWu65TjUNdofR41Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alexander Putilin\\source\\repos\\Timermatic\\27.02.21\\MyApplication\\MyApplication\\MyApplication.csproj",
+  "projectFilePath": "C:\\Users\\Alexander Putilin\\source\\repos\\Timermatic\\06.03.21\\MyApplication\\MyApplication\\MyApplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alexander Putilin\\.nuget\\packages\\mailkit\\2.10.1\\mailkit.2.10.1.nupkg.sha512",
     "C:\\Users\\Alexander Putilin\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
