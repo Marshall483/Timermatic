@@ -8,6 +8,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
+using ContosoMovies.DATA;
 
 namespace ContosoMovies
 {
@@ -23,6 +25,9 @@ namespace ContosoMovies
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+
+            services.AddDbContext<AppDbContext>(options =>
+            options.UseSqlServer(Configuration.GetConnectionString("MvcMovieContext")));
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
