@@ -1,0 +1,10 @@
+﻿@model Movie
+
+<div class="card col-lg-4">
+    <img class="img-thumbnail" src="~/IMG/default.jpg" alt="picture" />
+    <h2>@Model.Title</h2>
+    <p>Views 999+</p>
+    <p>Downloads 999+</p>
+    <p>@Model.Price.ToString("c")</p>
+    <p><a class="btn btn-warning" asp-controller="Item" asp-action="Details" asp-route-id="@Model.Id">Details</a></p>
+</div>

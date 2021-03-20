@@ -10,6 +10,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using ContosoMovies.DATA;
+using ContosoMovies.Extentions;
 
 namespace ContosoMovies
 {
@@ -41,12 +42,21 @@ namespace ContosoMovies
                 app.UseExceptionHandler("/Movies/Error");
                 app.UseHsts();
             }
+            /* CSUTOM MIDDLEWARE */
+            app.UseRequestLogging();
+
             app.UseHttpsRedirection();
             app.UseStaticFiles();
+
+            
+
 
             app.UseRouting();
 
             app.UseAuthorization();
+
+            /*TODO:  Middleware status code of responce || SQL Query */
+            app.UseResponceLogging();
 
             app.UseEndpoints(endpoints =>
             {

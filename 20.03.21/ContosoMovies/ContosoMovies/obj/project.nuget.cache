@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xPj69D3U2UQe7Z3OeLkoK3ttaj+n5rptRwNoLUfvD/2zov6xCaLcj7coaBaCbQSMO6RrYytjZpphL2akyY+F8g==",
+  "dgSpecHash": "2BjRvVhdNPLwxoUoFYzjNe2ttZvmWTWijGZM1HP6R8bBNV/et2skFmCH7jXNaGEF7j8mxu8alnnev0gkQ0Xm3A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alexander Putilin\\source\\repos\\Timermatic\\13.03.21\\ContosoMovies\\ContosoMovies\\ContosoMovies.csproj",
+  "projectFilePath": "C:\\Users\\Alexander Putilin\\source\\repos\\Timermatic\\20.03.21\\ContosoMovies\\ContosoMovies\\ContosoMovies.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alexander Putilin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Alexander Putilin\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

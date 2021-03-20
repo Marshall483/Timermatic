@@ -15,5 +15,6 @@ namespace ContosoMovies.DATA
         }
 
         public DbSet<Movie> Movie { get; set; }
+        public DbSet<Log> Logs { get; set; }
     }
 }

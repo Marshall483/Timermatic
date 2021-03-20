@@ -20,7 +20,7 @@ namespace ContosoMovies.Controllers
         }
 
         // GET: Movies
-        public async Task<IActionResult> Index(string movieGenre, string searchString)
+        public async Task<IActionResult> Index(string searchString, string movieGenre )
         {
             // Use LINQ to get list of genres.
             IQueryable<string> genreQuery = from m in _context.Movie
@@ -39,6 +39,7 @@ namespace ContosoMovies.Controllers
             {
                 movies = movies.Where(x => x.Genre == movieGenre);
             }
+
 
             var movieGenreVM = new MovieGenreViewModel
             {

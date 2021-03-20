@@ -30,7 +30,6 @@ namespace ContosoMovies
             }
 
             host.Run();
-
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>

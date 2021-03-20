@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alexander Putilin\\source\\repos\\Timermatic\\13.03.21\\ContosoMovies\\ContosoMovies\\ContosoMovies.csproj": {}
+    "C:\\Users\\Alexander Putilin\\source\\repos\\Timermatic\\20.03.21\\ContosoMovies\\ContosoMovies\\ContosoMovies.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alexander Putilin\\source\\repos\\Timermatic\\13.03.21\\ContosoMovies\\ContosoMovies\\ContosoMovies.csproj": {
+    "C:\\Users\\Alexander Putilin\\source\\repos\\Timermatic\\20.03.21\\ContosoMovies\\ContosoMovies\\ContosoMovies.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alexander Putilin\\source\\repos\\Timermatic\\13.03.21\\ContosoMovies\\ContosoMovies\\ContosoMovies.csproj",
+        "projectUniqueName": "C:\\Users\\Alexander Putilin\\source\\repos\\Timermatic\\20.03.21\\ContosoMovies\\ContosoMovies\\ContosoMovies.csproj",
         "projectName": "ContosoMovies",
-        "projectPath": "C:\\Users\\Alexander Putilin\\source\\repos\\Timermatic\\13.03.21\\ContosoMovies\\ContosoMovies\\ContosoMovies.csproj",
+        "projectPath": "C:\\Users\\Alexander Putilin\\source\\repos\\Timermatic\\20.03.21\\ContosoMovies\\ContosoMovies\\ContosoMovies.csproj",
         "packagesPath": "C:\\Users\\Alexander Putilin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alexander Putilin\\source\\repos\\Timermatic\\13.03.21\\ContosoMovies\\ContosoMovies\\obj\\",
+        "outputPath": "C:\\Users\\Alexander Putilin\\source\\repos\\Timermatic\\20.03.21\\ContosoMovies\\ContosoMovies\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
