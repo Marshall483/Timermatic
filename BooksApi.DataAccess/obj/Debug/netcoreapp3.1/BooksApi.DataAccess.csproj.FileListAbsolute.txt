@@ -1,0 +1,12 @@
+C:\Users\jows1\source\repos\BooksApi\BooksApi.DataAccess\bin\Debug\netcoreapp3.1\BooksApi.Models.dll
+C:\Users\jows1\source\repos\BooksApi\BooksApi.DataAccess\obj\Debug\netcoreapp3.1\BooksApi.DataAccess.csprojAssemblyReference.cache
+C:\Users\jows1\source\repos\BooksApi\BooksApi.DataAccess\obj\Debug\netcoreapp3.1\BooksApi.DataAccess.AssemblyInfoInputs.cache
+C:\Users\jows1\source\repos\BooksApi\BooksApi.DataAccess\obj\Debug\netcoreapp3.1\BooksApi.DataAccess.AssemblyInfo.cs
+C:\Users\jows1\source\repos\BooksApi\BooksApi.DataAccess\obj\Debug\netcoreapp3.1\BooksApi.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\jows1\source\repos\BooksApi\BooksApi.DataAccess\bin\Debug\netcoreapp3.1\BooksApi.DataAccess.deps.json
+C:\Users\jows1\source\repos\BooksApi\BooksApi.DataAccess\bin\Debug\netcoreapp3.1\BooksApi.DataAccess.dll
+C:\Users\jows1\source\repos\BooksApi\BooksApi.DataAccess\bin\Debug\netcoreapp3.1\BooksApi.DataAccess.pdb
+C:\Users\jows1\source\repos\BooksApi\BooksApi.DataAccess\bin\Debug\netcoreapp3.1\BooksApi.Models.pdb
+C:\Users\jows1\source\repos\BooksApi\BooksApi.DataAccess\obj\Debug\netcoreapp3.1\BooksApi.DataAccess.csproj.CopyComplete
+C:\Users\jows1\source\repos\BooksApi\BooksApi.DataAccess\obj\Debug\netcoreapp3.1\BooksApi.DataAccess.dll
+C:\Users\jows1\source\repos\BooksApi\BooksApi.DataAccess\obj\Debug\netcoreapp3.1\BooksApi.DataAccess.pdb
